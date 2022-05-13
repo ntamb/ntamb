@@ -1,0 +1,6 @@
+#include<iosteam>
+using namespace std;
+main(){
+cout <<"welcome to my page\n";
+return 0;
+}
